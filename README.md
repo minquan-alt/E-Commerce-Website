@@ -1,2 +1,2 @@
-# E-Commerce-Website
+# E-Commerce Website
 Project for IS207.P12
